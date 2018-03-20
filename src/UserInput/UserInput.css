@@ -1,0 +1,12 @@
+.UserInputContainer {
+    margin: 20px;
+}
+
+.UserInputContainer .Input {
+    border: 0;
+    border-bottom: 1px solid black;
+    outline: 0;
+    font-family: Verdana;
+    font-size: 12px;
+    font-weight: 600;
+}

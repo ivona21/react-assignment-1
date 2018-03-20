@@ -1,0 +1,14 @@
+.UserOutputContainer {
+    margin: 20px auto;
+    width: 60%;
+    text-align: justify;
+}
+
+.UserOutputContainer .Paragraph {
+    border: 1px solid #eee;
+    padding: 25px;
+    box-shadow: 0 1px 2px #ddd;
+    line-height: 1.6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
